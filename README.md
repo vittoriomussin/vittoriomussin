@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vittoriomussin
 - 👀 I’m interested in Natural Language Processing, Diachronic Linguistics, Information-Theoretic Approaches to Linguistics
-- 🌱 I’m currently learning Machine Learning models for NLP
+- 🌱 I’m currently learning Topology
 - 💞️ I’m looking to collaborate on NLP applications
 - 📫 How to reach me vittorio.mussin@hotmail.it
 
